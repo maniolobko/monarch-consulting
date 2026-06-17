@@ -1,0 +1,10 @@
+# Archives de distribution
+*.zip
+
+# Système
+.DS_Store
+Thumbs.db
+libs/
+
+# Guides internes (non publiés sur le site)
+GUIDE-IONOS.md
